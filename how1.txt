@@ -1,0 +1,1 @@
+this code will tell you wether a number is prime or not
